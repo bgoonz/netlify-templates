@@ -3,7 +3,7 @@
   "description": "",
   "dependencies": {
     "autoprefixer-stylus": "0.8.x",
-    "axis": "0.5.x",
+    "axis": "0.6.1",
     "coffee-script": "^1.0.0",
     "css-pipeline": "0.3.x",
     "html-excerpt": "^0.1.0",
